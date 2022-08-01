@@ -1,4 +1,4 @@
-# Gleinna
+# Auto Resurgence
 This is a Car Repair Services app using React.js, Redux, Node.js, Express, Mongoose and some other packages.
 ### Usage
 ```bash
